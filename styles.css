@@ -1,0 +1,305 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar_atas {
+    background-color: #AF7DFF;
+    align-content: center;
+    height: 50px;
+}
+.navbar_atas span{
+    color: #FBFF22;
+    line-height: 50px;
+    margin-left: 20px;
+}
+
+.content {
+    margin: auto;
+    height: 80vh;
+    width: 80%;
+    background-color: #fcfcfc;
+}
+
+.content div {
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Aladin', cursive;
+}
+
+.anime_title {
+    margin-top: 30px;
+}
+
+.tahun {
+    margin-top: 10px;
+}
+
+.image_background {
+    margin-top: 20px;
+    width: 84%;
+    height: 50vh;
+    text-align: center;
+}
+
+.button_selanjutnya_h1 {
+    float: right;
+    margin-right: 80px;
+}
+
+.button_selanjutnya_ {
+    float: right;
+}
+
+.selanjutnya_ button {
+    margin: 30px 0px 0px 0px;
+    padding: 7px 12px 7px 12px;
+    background-color: rgb(102, 255, 102);
+    border-radius: 5px;
+    border: none;
+    color: rgb(95, 95, 95);
+}
+.sebelumnya_ button {
+    margin: 30px 0px 0px 0px;
+    padding: 7px 12px 7px 12px;
+    background-color: rgb(102, 255, 102);
+    border-radius: 5px;
+    border: none;
+    color: rgb(95, 95, 95);
+}
+
+.selanjutnya_ button:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(47, 255, 28);
+    border: 1px greenyellow solid;
+}
+.sebelumnya_ button:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(47, 255, 28);
+    border: 1px greenyellow solid;
+}
+
+.content_h2 {
+    margin: auto;
+    height: 10vh;
+    width: 80%;
+    background-color: #fcfcfc;
+    height: 140vh;
+}
+
+.animesekaihunter {
+    margin: 30px 0px 20px 0px;
+    font-size: 24px;
+    font-family: 'Aladin', cursive;
+}
+
+
+.content_ {
+    margin: auto;
+    height: 130vh;
+    width: 80%;
+    background-color: #fcfcfc;
+}
+
+#judul_ {
+    font-size: 24px;
+    font-family: 'Aladin', cursive;
+    margin: 30px 0px 20px 0px;
+}
+
+.image_ {
+    width: 100%;
+    height: 70vh;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    /* background-color: #AF7DFF; */
+}
+
+.desc_ {
+    margin-top: 20px;
+    color: #0f0f0f;
+}
+
+
+#judul_mushoku {
+    font-size: 24px;
+    font-family: 'Aladin', cursive;
+    margin-top: 30px;
+}
+
+
+.desc_h3 {
+    margin-top: 20px;
+    color: #0f0f0f;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .image_background {
+        margin-top: 20px;
+        width: 84%;
+        height: 30vh;
+        text-align: center;
+    }
+    .image_ {
+        width: 100%;
+        height: 30vh;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #logo {
+    position: absolute;
+}
+
+#logo path:nth-child(1) {
+    stroke-dasharray: 10px;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(2) {
+    stroke-dasharray: 10px;
+    stroke-dasharray: 572;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(3) {
+    stroke-dasharray: 572;
+    stroke-dasharray: 572;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(4) {
+    stroke-dasharray: 572;
+    stroke-dasharray: 572;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(5) {
+    stroke-dasharray: 572;
+    stroke-dasharray: 572;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(6) {
+    stroke-dasharray: 572;
+    stroke-dasharray: 572;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(7) {
+    stroke-dasharray: 572;
+    stroke-dasharray: 572;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(8) {
+    stroke-dasharray: 572;
+    stroke-dasharray: 572;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(9) {
+    stroke-dasharray: 572;
+    stroke-dasharray: 572;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(10) {
+    stroke-dasharray: 572;
+    stroke-dasharray: 572;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(11) {
+    stroke-dasharray: 572;
+    stroke-dasharray: 572;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(12) {
+    stroke-dasharray: 572;
+    stroke-dasharray: 572;
+    animation: line-anim 2s ease forwards;
+} */
